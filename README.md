@@ -41,6 +41,7 @@ Established a professional presence across the engineering ecosystem:
 ### 💻 Task 3: Technical Mastery
 * **Python Proficiency:** Earned a **2-Star Python Badge** on HackerRank, a core skill for modern signal processing and data analysis.
 * **Google Workspace:** Created an automated Digital Literacy Quiz to educate peers on secure digital habits.
+* 🔗 Quiz Link: https://forms.gle/hRi6LGAtTrsH9cPQ8
 
 ### ✉️ Task 4: Digital Etiquette
 * **High-Stakes Communication:** Drafted formal professional correspondence for academic and internship-related requests (e.g., LORs and project approvals).
